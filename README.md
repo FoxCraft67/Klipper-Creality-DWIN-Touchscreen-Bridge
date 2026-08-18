@@ -6,7 +6,7 @@ and **Moonraker** via the Raspberry Pi GPIO UART port.
 
   No screen firmware reflashing is required — it works with Creality's stock DWIN firmware.
 
-  **Build with AI Assistance.**
+  **Built with AI Assistance.**
 
   ---
 
