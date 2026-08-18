@@ -74,7 +74,7 @@ enabled"*.
 
 Clone this repository or copy klipper_dwin_bridge.py to /home/pi/:
 
-  git clone https://github.com/FoxCraft67/Klipper-Creality-DWIN-Touchscreen-Bridge
+  git clone https://github.com/FoxCraft67/Klipper-Creality-DWIN-Touchscreen-Bridge.git
   cd klipper-dwin-bridge
   cp klipper_dwin_bridge.py /home/pi/klipper_dwin_bridge.py
 
